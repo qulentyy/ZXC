@@ -27,7 +27,7 @@ int main()
 						    else if (BMI <= 39.99)
 		                         std::cout << "II stopieñ oty³oœci\n";
 						         else if (BMI <= 40)
-		                             std::cout << "oty³oœæ skrajn¹\n";
+		                              std::cout << "oty³oœæ skrajn¹\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
